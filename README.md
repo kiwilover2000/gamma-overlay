@@ -8,7 +8,7 @@ Display movable images on your screen as overlays.
 
 Go to the [Releases](../../releases) page and download `gammaOverlay.exe`.
 
-> **"Windows protected your PC"?** The exe is not code-signed, so Windows SmartScreen may warn you. Click **More info >> Run anyway**. The full source code is in this repository if you want to check it or build it yourself.
+> **"Windows protected your PC"?** The exe is not code-signed, so Windows Smart Screen may warn you. Click **More info >> Run anyway**. The full source code is in this repository if you want to check it.
 
 ## features
 
