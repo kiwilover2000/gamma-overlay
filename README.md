@@ -11,7 +11,6 @@ Go to the [Releases](../../releases) page and download `gammaOverlay.exe`.
 > **"Windows protected your PC"?** The exe is not code-signed, so Windows Smart Screen may warn you. Click **More info >> Run anyway**. The full source code is in this repository if you want to check it.
 
 ## features
-
 - Show any number of PNG, JPG, GIF or WebP images as borderless, always-on-top overlays
 - Drag to move, with snapping to screen edges
 - Resize with a corner handle, the mouse wheel, or a precise size slider
@@ -23,3 +22,8 @@ Go to the [Releases](../../releases) page and download `gammaOverlay.exe`.
 ## license
 
 This project uses [PySide6](https://doc.qt.io/qtforpython-6/), which is available under the LGPL.
+
+
+
+
+<3
